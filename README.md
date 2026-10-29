@@ -1,5 +1,5 @@
 ## Hi👋,I'M Sandhya S Raykar
-#a passionate developer from India
+a passionate developer from India
 
 <!--
 **SandhyaSRaykar/SandhyaSRaykar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
